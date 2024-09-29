@@ -1,1 +1,1 @@
-Alguns dos principais algoritimos feito por mim na linguagem C, ultilzando o aplicativo WebAlgo da UCS.
+Esta seção lista alguns dos principais algoritmos que desenvolvi na linguagem C, utilizando o aplicativo WebAlgo da UCS. Os algoritmos foram projetados para abordar diferentes conceitos de programação e algoritmos clássicos.Estes algoritmos demonstram minha capacidade de aplicar conceitos de programação e resolver problemas complexos. Sinta-se à vontade para explorar e adaptar o código conforme necessário.
